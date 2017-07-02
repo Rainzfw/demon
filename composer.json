@@ -1,0 +1,10 @@
+{
+    "name": "rainzfw/demon",
+    "description": "test a project composer",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIN",
+    "minimum-stability": "dev"
+}
